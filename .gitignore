@@ -1,0 +1,10 @@
+# Ignore downloaded EMNIST data
+data/
+
+# Ignore Python cache and junk
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.DS_Store
+.env
