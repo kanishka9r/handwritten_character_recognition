@@ -78,3 +78,8 @@ Extendable to full word or sentence recognition using sequence models like CRNN 
 Outputs:
 - Confusion Matrix
 - Accuracy & Loss plots
+
+
+## License
+This project is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+See the [LICENSE](LICENSE) file for details.
