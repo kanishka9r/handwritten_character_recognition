@@ -75,7 +75,7 @@ Extendable to full word or sentence recognition using sequence models like CRNN 
    ```bash
    python handwritten_character_project.py
 5. Wait for training to complete:
-Outputs:
+   Outputs:
 - Confusion Matrix
 - Accuracy & Loss plots
 
